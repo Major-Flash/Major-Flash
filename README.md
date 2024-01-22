@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Major-Flash
+- 👋 Hi, I’m @Major-Flash (Aman)
 - 👀 I’m interested in Salesforce Development.
 - 🌱 I’m currently learning how salesforce Ecosystem work and apex coding along with HTML,JAVAScript, CSS.
 - 💞️ I’m looking to collaborate on anything related to salesforce development.
